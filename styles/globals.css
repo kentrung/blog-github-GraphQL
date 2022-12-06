@@ -1,0 +1,16 @@
+@import 'github-syntax-dark/lib/github-dark.css';
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .layout {
+    @apply w-screen h-screen overflow-auto flex flex-col items-center bg-zinc-800 text-neutral-300;
+  }
+  .label {
+    @apply bg-sky-900 px-2 mt-2 font-semibold rounded-xl text-zinc-800;
+  }
+  .label-selected {
+    @apply bg-sky-600 text-neutral-300;
+  }
+}
