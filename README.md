@@ -15,6 +15,9 @@
 - Chọn `Personal access tokens` > `Tokens (classic)`
 - Chọn `Generate new token` > `Generate new token (classic)`
 - Đặt tên cho token và chọn Expiration
+- Tham khảo: https://www.youtube.com/watch?v=R8QWDx3JAAc
+
+<hr />
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
