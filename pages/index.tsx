@@ -42,6 +42,12 @@ const Home: NextPage = ({
             <p>
               A full-stack blog made with Next.js, TailwindCSS, Github GraphQL
             </p>
+            <p>
+              Link github discussions:
+              <a href="https://github.com/kentrung/blog-github-GraphQL/discussions" target="_blank">
+                https://github.com/kentrung/blog-github-GraphQL/discussions
+              </a>
+            </p>
           </div>
         </section>
         <section className="flex flex-col items-center text-[1.15rem] mt-12">
