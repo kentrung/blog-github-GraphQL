@@ -44,7 +44,7 @@ const Home: NextPage = ({
             </p>
             <p>
               Link github discussions:
-              <a href="https://github.com/kentrung/blog-github-GraphQL/discussions" target="_blank">
+              <a href="https://github.com/kentrung/blog-github-GraphQL/discussions" target="_blank" rel="noreferrer">
                 https://github.com/kentrung/blog-github-GraphQL/discussions
               </a>
             </p>
