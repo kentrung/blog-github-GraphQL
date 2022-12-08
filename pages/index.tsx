@@ -43,8 +43,13 @@ const Home: NextPage = ({
               A full-stack blog made with Next.js, TailwindCSS, Github GraphQL
             </p>
             <p>
-              Link github discussions:
-              <a href="https://github.com/kentrung/blog-github-GraphQL/discussions" target="_blank" rel="noreferrer">
+              Link github discussions: &nbsp;
+              <a
+                href="https://github.com/kentrung/blog-github-GraphQL/discussions"
+                target="_blank"
+                rel="noreferrer"
+                className="text-[#00ffff] underline"
+              >
                 https://github.com/kentrung/blog-github-GraphQL/discussions
               </a>
             </p>
