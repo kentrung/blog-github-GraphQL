@@ -1,6 +1,7 @@
 <p align="center">
   <img width="708" height="1368" src="https://github.com/kentrung/blog-github-GraphQL/assets/15643762/59f608fa-95ad-4c44-be68-3812fbfba144" alt="blog-github-graphql-preview" />
 </p>
+
 ## Cách tạo discussion trong repository
 
 - Tạo 1 account github
